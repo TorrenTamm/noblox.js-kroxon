@@ -24,6 +24,8 @@
 
 ## About
 
+This is a forked copy of <a href="https://github.com/suufi/noblox.js">Noblox.js module by suufi</a>. This fork is customized by Torren for his own needs, including features that original Noblox.js module doesn't have. I have decided to make it public for others to also use. Everything except this paragraph in this file is original.
+
 Noblox.js is a node module that was forked from <a href="https://github.com/sentanos/roblox-js">sentanos's roblox-js module</a>. This project was created because the roblox-js repository was no longer maintained by sentanos.
 
 Noblox.js allows you to do things you would normally do on the [Roblox](https://www.roblox.com) website through a Node.js interface. You can use noblox.js along with Roblox's [HttpService feature](http://wiki.roblox.com/index.php?title=API:Class/HttpService) to create scripts that interact with the website. If you're looking for more information on how to create something like this, check out [this](https://github.com/sentanos/roblox-js-server) repository by sentanos. Keep in mind that this does not use the latest version of this module and it is **highly** encouraged that you learn to use the library directly.
